@@ -1,5 +1,5 @@
 [package]
-name = "fs_trigger"
+name = "rust-fs-watcher"
 version = "0.1.0"
 authors = ["Joe Mooney <joe.mooney@gmail.com>"]
 edition = "2018"
